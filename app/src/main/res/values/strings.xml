@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Alcometer</string>
+    <string name="title">Alcometer</string>
+    <string name="weightLabel">Enter Weight</string>
+    <string name="keyboardIconDescription">Arrow that point up when unselected and down when selected</string>
+</resources>
